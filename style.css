@@ -1,0 +1,23 @@
+body {
+	font-size: 10px;
+	margin: 0; 
+}
+#carousel {
+	text-align: center;
+	width: 60em;
+	height: 40em;
+	margin: 0 auto;
+	overflow-y: hidden;
+}
+#carousel ul {
+	margin: 0;
+	padding: 0;
+	height: 40em;
+	width: 300em;
+}
+#carousel ul li {
+	list-style-type: none;
+	float: left;
+	width: 60em;
+	height: 40em;
+}
